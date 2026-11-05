@@ -2,12 +2,11 @@
 ## Son Güncelleme: 2026-11-05
 
 ### Çalışan Özellikler
-- Repo tabanlı hafıza yapısı (`AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, `docs/`) hazır.
-- GitHub entegrasyonu (`RetroGala/proje-hafiza-sablonu`) ve şablon repo (Template Repository) özelliği aktif.
-- Yeni projelere tek tıkla kurulum sağlayan `Hafiza_Kur.bat` aracı hazır.
+- Yalnızca GitHub üzerinde tutulan repo tabanlı hafıza yapısı (`AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, `docs/`) aktif.
+- Yerelde dosya oluşturulmadan doğrudan GitHub üzerinden (`RetroGala/proje-hafiza-sablonu`) okuma ve güncelleme yapılıyor.
 
 ### Bilinen Sorunlar / Kısıtlar
 - Şu an bilinen bir sorun yok.
 
 ### Son Yapılan İşlemler
-- Git ve GitHub CLI kuruldu, şablon repo GitHub'a (`https://github.com/RetroGala/proje-hafiza-sablonu`) yüklendi.
+- Yerel dosyalar kaldırıldı, sistem yalnızca GitHub üzerinde çalışacak şekilde ayarlandı.
